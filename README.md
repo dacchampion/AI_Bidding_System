@@ -5,13 +5,14 @@
  to choose the optimal bidding price or max_cpc in AdWords terminology.
 
  At high level it can be explained as follows
- ![Bidding agents objectives](Bidding optimization-1.png)
 
- ![Agent-Environment interaction](Bidding optimization-2.png)
+ ![Bidding agents objectives](https://github.com/dacchampion/AI_Bidding_System/blob/master/Bidding%20optimization-1.png)
 
- ![Reinforcement Learning in action](Bidding optimization-3.png)
+ ![Agent-Environment interaction](https://github.com/dacchampion/AI_Bidding_System/blob/master/Bidding%20optimization-2.png)
 
- ![What is the optimal bid](Bidding optimization-4.png)
+ ![Reinforcement Learning in action](https://github.com/dacchampion/AI_Bidding_System/blob/master/Bidding%20optimization-3.png)
+
+ ![What is the optimal bid](https://github.com/dacchampion/AI_Bidding_System/blob/master/Bidding%20optimization-4.png)
 
  At a low level, the python source codes are implementing the following:
 
