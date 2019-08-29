@@ -14,7 +14,7 @@
 
  ![What is the optimal bid](https://github.com/dacchampion/AI_Bidding_System/blob/master/Bidding%20optimization-4.png)
 
- At a low level, the python scripts are implementing the following:
+ At a low level, the python scripts represent the following:
 
 > This work is based on the implementation of a RL model for the data given by Google AdWords. It is basically taking the ideas from (Jun, et al., 2018) with respect to the agent’s implementation by means of RL control theory. A control system is approached as a Markov Decision Process (MDP) which is mathematically represented as a tuple 〈S,A,p,r〉 where S and A represent the state and action space respectively, p(∙) denotes the transition probability function, and r(∙) denotes the feedback reward function. The transition probability from state s∈S to > the next one s'∈S by taking action a∈A is p(s,a,s'). The reward received after taking action a in state s is r(s,a). The goal of the model is to learn an optimal policy, represented by a sequence of decisions, mapping state s to action a, in order to maximize the expected accumulated action reward.
 
